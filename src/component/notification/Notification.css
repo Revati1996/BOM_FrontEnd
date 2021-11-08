@@ -1,0 +1,6 @@
+@media (min-width: 1200px) {
+    .container1, .container1-sm, .container1-md, .container1-lg, .container1-xl {
+        max-width: 900px;
+        padding-top: 10px;;
+    }
+}
